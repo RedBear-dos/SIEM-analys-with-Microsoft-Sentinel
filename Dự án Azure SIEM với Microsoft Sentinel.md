@@ -1,4 +1,5 @@
-# Dự án Azure SIEM với Microsoft Sentinel
+# SIEM-analys-with-Microsoft-Sentinel ( Will Updating to 8/5/2025 ) 
+SIEM Implementation with Microsoft Sentinel (Azure Cloud)
 
 ## Mục đích của Dự án
 
