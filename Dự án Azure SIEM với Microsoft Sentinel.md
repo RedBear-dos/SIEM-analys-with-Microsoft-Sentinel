@@ -3,7 +3,7 @@ SIEM Implementation with Microsoft Sentinel (Azure Cloud)
 
 ## Mục đích của Dự án
 
-Dự án này nhằm mục đích xây dựng và triển khai một hệ thống Security Information and Event Management (SIEM) cơ bản sử dụng Microsoft Sentinel trên nền tảng Azure. Mục tiêu chính là:
+Dự án này nhằm mục đích tìm hiểu về các dịch vụ tiệc ích và bảo mật của Azure, tìm hiểu và xây dựng và triển khai một hệ thống Security Information and Event Management (SIEM) cơ bản sử dụng Microsoft Sentinel trên nền tảng Azure. Mục tiêu chính là:
 
 *   **Thu thập log tập trung:** Thu thập và tổng hợp các log bảo mật từ nhiều nguồn khác nhau, bao gồm máy ảo trên Azure (máy chủ web, máy khách/tấn công) và máy tính cá nhân (on-premises) vào một không gian làm việc Log Analytics duy nhất.
 *   **Giám sát và phát hiện mối đe dọa:** Thiết lập các quy tắc phân tích (Analytic Rules) trong Microsoft Sentinel để tự động phát hiện các hoạt động đáng ngờ và các cuộc tấn công bảo mật (ví dụ: SQL Injection, quét cổng, tấn công brute-force RDP).
